@@ -18,7 +18,8 @@
       "SRC-2026-0518-AGENT-OPEN-CALL-TASKBOOK",
       "SRC-AGENT-TASKBOOK",
       "SITE-PACKAGE",
-      "AGENT-TASKBOOK"
+      "AGENT-TASKBOOK",
+      "SRC-2026-USER-INNOV-ECO"
     ],
     "provisional_sources": [
       "SRC-PROVISIONAL-BOUNDARIES-2026"
@@ -913,6 +914,29 @@
       "alias_of": "SRC-2026-0518-AGENT-OPEN-CALL-TASKBOOK",
       "usable_for": [
         "agent task coverage reference (in-text shorthand alias)"
+      ]
+    },
+    {
+      "id": "SRC-2026-USER-INNOV-ECO",
+      "title": "《创新生态是科创城市发展的核心》城市创新论坛演讲资料整理（演讲人：陈劲，清华大学经济管理学院教授、清华大学技术创新研究中心主任；含苏州—杭州创新指标对比数据，数据来源：施琴芬课题组，2025年）",
+      "publisher": "User-provided cleared document (Tsinghua University city innovation forum keynote transcript)",
+      "published_date": "2026-08-27",
+      "url": "local/user-provided/创新生态是科创城市发展的核心.docx",
+      "authority_level": "user_provided_cleared",
+      "evidence_class": "primary",
+      "in_approved_formal_sources": false,
+      "in_user_provided_cleared": true,
+      "accessed_date": "2026-08-27",
+      "retrieved_at": "2026-08-27T13:30:00+08:00",
+      "collection_method": "用户提供本地 docx 文档，经 zipfile 提取正文校读",
+      "source_locator": "全文：国家科技创新战略；深圳与杭州案例；苏州—杭州创新主体/创新环境指标对比（高校技术转移收入、VC/PE数量、知识密集型产业从业人员）；杭州城西科创大走廊；《天才地理学》",
+      "license": "用户提供的已清权材料",
+      "verification_status": "user_provided_cleared",
+      "usable_for": [
+        "Innovation ecosystem theory foundation (factor-driven to innovation-driven, late-mover to first-mover advantage)",
+        "Suzhou-Hangzhou soft-environment empirical comparison data (VC/PE count, university tech transfer income, knowledge-intensive employment)",
+        "Hangzhou Chengxi Sci-Tech Corridor isomorphic benchmark (university + industry engine + spatial carrier)",
+        "The Geography of Genius design view: innovation as environment-conditioned emergence"
       ]
     }
   ]
